@@ -1,0 +1,751 @@
+1
+00:00:00,000 --> 00:00:03,680
+Welcome back to Equation Station SA, where we make Grade
+
+2
+00:00:03,700 --> 00:00:07,760
+Twelve Mathematics easier to understand, one step at a time.
+
+3
+00:00:08,440 --> 00:00:11,180
+Imagine a straight line and a parabola on one graph.
+
+4
+00:00:11,540 --> 00:00:15,060
+How do we calculate exactly where they meet, without guessing?
+
+5
+00:00:15,560 --> 00:00:18,800
+And what if the exam question doesn't even mention simultaneous
+
+6
+00:00:18,820 --> 00:00:21,860
+equations? Today we'll find out.
+
+7
+00:00:22,140 --> 00:00:25,620
+We'll start with our free Algebra and Equations course, then
+
+8
+00:00:25,640 --> 00:00:29,120
+tackle a real six-mark question from the November twenty twenty-five
+
+9
+00:00:29,140 --> 00:00:32,640
+National Senior Certificate Mathematics Paper One.
+
+10
+00:00:32,840 --> 00:00:35,120
+At the end, you'll try one yourself.
+
+11
+00:00:35,620 --> 00:00:37,700
+Lesson One gave us factorisation.
+
+12
+00:00:38,040 --> 00:00:41,920
+Lesson Two introduced the quadratic formula and nature of roots.
+
+13
+00:00:42,440 --> 00:00:44,920
+Lesson Three covered quadratic inequalities.
+
+14
+00:00:45,500 --> 00:00:48,440
+Now we'll connect those skills to find the coordinates where
+
+15
+00:00:48,460 --> 00:00:52,680
+two graphs meet. Simultaneous equations must both be true for
+
+16
+00:00:52,700 --> 00:00:54,880
+the same values of the unknowns.
+
+17
+00:00:54,980 --> 00:00:58,620
+With x and y, the answers are matching pairs: each
+
+18
+00:00:58,640 --> 00:01:01,080
+x-value together with its y-value.
+
+19
+00:01:01,460 --> 00:01:04,980
+On a graph, they represent points lying on both graphs.
+
+20
+00:01:05,400 --> 00:01:09,380
+The key move is substitution: use the simpler equation to
+
+21
+00:01:09,400 --> 00:01:11,360
+replace one unknown in the other.
+
+22
+00:01:11,700 --> 00:01:14,360
+That leaves one equation in one unknown.
+
+23
+00:01:14,700 --> 00:01:18,040
+Solve it, then go back to find each matching value.
+
+24
+00:01:18,520 --> 00:01:23,840
+Our routine is recognise, rearrange, substitute, solve, and check.
+
+25
+00:01:24,260 --> 00:01:27,020
+Let's use the exact example in the Grade Twelve Algebra
+
+26
+00:01:27,040 --> 00:01:28,300
+course on our website.
+
+27
+00:01:28,740 --> 00:01:32,060
+The first equation is y equals x plus two.
+
+28
+00:01:32,240 --> 00:01:34,740
+The second is y equals x squared.
+
+29
+00:01:35,320 --> 00:01:37,760
+Both equations tell us what y equals.
+
+30
+00:01:38,200 --> 00:01:41,760
+So at an intersection, x plus two must equal x
+
+31
+00:01:41,780 --> 00:01:45,740
+squared. Write that as x squared equals x plus two.
+
+32
+00:01:46,060 --> 00:01:47,820
+Now move everything to the left.
+
+33
+00:01:48,160 --> 00:01:52,280
+We get x squared minus x minus two equals zero.
+
+34
+00:01:52,520 --> 00:01:56,140
+That looks familiar! It is a quadratic equation, just like
+
+35
+00:01:56,160 --> 00:01:58,040
+the ones we solved earlier in this series.
+
+36
+00:01:58,060 --> 00:02:01,880
+Which two numbers multiply to negative two and add to
+
+37
+00:02:01,900 --> 00:02:05,340
+negative one? Negative two and positive one.
+
+38
+00:02:05,600 --> 00:02:09,260
+So we factorise into x minus two, multiplied by x
+
+39
+00:02:09,280 --> 00:02:11,000
+plus one, equals zero.
+
+40
+00:02:11,320 --> 00:02:14,460
+The zero-product rule tells us that x minus two equals
+
+41
+00:02:14,480 --> 00:02:17,600
+zero, or x plus one equals zero.
+
+42
+00:02:17,920 --> 00:02:21,880
+Therefore, x equals two, or x equals negative one.
+
+43
+00:02:22,140 --> 00:02:23,520
+But stop there for a moment.
+
+44
+00:02:23,820 --> 00:02:25,820
+Have we finished? Not yet.
+
+45
+00:02:26,100 --> 00:02:28,040
+The question asks for x and y.
+
+46
+00:02:28,060 --> 00:02:32,280
+We still need the y-value that belongs to each x-value.
+
+47
+00:02:32,600 --> 00:02:35,880
+Go back to the simpler equation: y equals x plus
+
+48
+00:02:35,900 --> 00:02:39,460
+two. When x equals two, y equals four.
+
+49
+00:02:39,700 --> 00:02:42,820
+When x equals negative one, y equals one.
+
+50
+00:02:43,080 --> 00:02:45,940
+So our two answers are the point two, four, and
+
+51
+00:02:45,960 --> 00:02:47,760
+the point negative one, one.
+
+52
+00:02:48,080 --> 00:02:50,920
+On the graph, the straight line and parabola meet at
+
+53
+00:02:50,940 --> 00:02:52,780
+precisely those two points.
+
+54
+00:02:53,000 --> 00:02:55,180
+Each coordinate lies on both graphs.
+
+55
+00:02:55,200 --> 00:02:58,400
+The algebra confirms what the picture shows.
+
+56
+00:02:58,860 --> 00:03:03,480
+Quick exam warning: two x-values are not automatically two complete
+
+57
+00:03:03,500 --> 00:03:07,140
+answers. If you stop at x equals two or x
+
+58
+00:03:07,160 --> 00:03:11,480
+equals negative one, you have not given the corresponding y-values.
+
+59
+00:03:11,880 --> 00:03:15,680
+A simultaneous-equations solution is a matching ordered pair.
+
+60
+00:03:16,120 --> 00:03:20,320
+Substitute each x-value back, find its own y-value, and present
+
+61
+00:03:20,340 --> 00:03:25,000
+both coordinates clearly. In our example, two goes with four,
+
+62
+00:03:25,100 --> 00:03:27,320
+but negative one goes with one.
+
+63
+00:03:27,800 --> 00:03:29,080
+Never mix the pairs up.
+
+64
+00:03:29,220 --> 00:03:32,980
+Your final answer must have both coordinates for each solution.
+
+65
+00:03:33,380 --> 00:03:35,980
+This one extra step can save marks.
+
+66
+00:03:36,240 --> 00:03:38,640
+Always check both original equations.
+
+67
+00:03:38,980 --> 00:03:43,240
+For two, four: four equals two plus two, and four
+
+68
+00:03:43,260 --> 00:03:47,900
+equals two squared. For negative one, one: one equals negative
+
+69
+00:03:47,920 --> 00:03:51,400
+one plus two, and one equals negative one squared.
+
+70
+00:03:51,420 --> 00:03:54,100
+Each pair works in both equations.
+
+71
+00:03:54,500 --> 00:03:57,700
+Now let's step up to a real matric examination question.
+
+72
+00:03:58,080 --> 00:04:02,020
+I checked the November twenty twenty-five National Senior Certificate Mathematics
+
+73
+00:04:02,040 --> 00:04:04,840
+Paper One, Question One point Two.
+
+74
+00:04:05,000 --> 00:04:06,520
+It was worth six marks.
+
+75
+00:04:06,860 --> 00:04:09,940
+Instead of showing us two equations ready to solve, the
+
+76
+00:04:09,960 --> 00:04:11,900
+examiner gave us two statements.
+
+77
+00:04:12,380 --> 00:04:15,640
+Our first job is to translate those statements into mathematics.
+
+78
+00:04:15,660 --> 00:04:19,180
+The first statement says that x is two more than
+
+79
+00:04:19,200 --> 00:04:22,800
+y. That means x equals y plus two.
+
+80
+00:04:22,960 --> 00:04:24,480
+There is our first equation.
+
+81
+00:04:24,780 --> 00:04:27,760
+The second statement tells us that five times the product
+
+82
+00:04:27,780 --> 00:04:30,540
+of x and y is six more than the square
+
+83
+00:04:30,560 --> 00:04:32,520
+of x. Let's unpack it.
+
+84
+00:04:32,840 --> 00:04:35,940
+The product of x and y is x times y.
+
+85
+00:04:36,160 --> 00:04:39,100
+Five times that product is five x y.
+
+86
+00:04:39,300 --> 00:04:42,000
+Six more than the square of x is x squared
+
+87
+00:04:42,020 --> 00:04:45,720
+plus six. So the second equation is five x y
+
+88
+00:04:45,740 --> 00:04:47,860
+equals x squared plus six.
+
+89
+00:04:48,020 --> 00:04:51,620
+Notice: the question never told us which method to use.
+
+90
+00:04:51,860 --> 00:04:54,680
+We recognised two unknowns and two conditions.
+
+91
+00:04:55,180 --> 00:04:57,680
+That's method recognition under exam pressure.
+
+92
+00:04:57,953 --> 00:05:01,673
+The first equation is x equals y plus two.
+
+93
+00:05:01,993 --> 00:05:05,753
+Rearrange it to make y the subject: y equals x
+
+94
+00:05:05,773 --> 00:05:09,433
+minus two. Substitute this into the second equation.
+
+95
+00:05:09,833 --> 00:05:13,853
+Five x, multiplied by x minus two, equals x squared
+
+96
+00:05:13,873 --> 00:05:18,873
+plus six. Expand: five x squared minus ten x equals
+
+97
+00:05:18,893 --> 00:05:20,793
+x squared plus six.
+
+98
+00:05:21,013 --> 00:05:24,533
+Collect all the terms on one side: four x squared
+
+99
+00:05:24,553 --> 00:05:27,513
+minus ten x minus six equals zero.
+
+100
+00:05:27,533 --> 00:05:30,963
+Divide by two to get two x squared minus five
+
+101
+00:05:30,983 --> 00:05:33,333
+x minus three equals zero.
+
+102
+00:05:33,713 --> 00:05:36,733
+Now use our factorisation skill from Lesson One.
+
+103
+00:05:36,993 --> 00:05:40,623
+Two x squared minus five x minus three becomes two
+
+104
+00:05:40,643 --> 00:05:44,893
+x plus one, multiplied by x minus three, equals zero.
+
+105
+00:05:45,173 --> 00:05:49,013
+Check the expansion: the middle term is negative five x.
+
+106
+00:05:49,273 --> 00:05:53,233
+By the zero-product rule, two x plus one equals zero,
+
+107
+00:05:53,253 --> 00:05:55,593
+or x minus three equals zero.
+
+108
+00:05:55,933 --> 00:06:00,413
+Therefore x equals negative one half, or x equals three.
+
+109
+00:06:00,613 --> 00:06:03,673
+But remember, we need matching x and y values.
+
+110
+00:06:04,073 --> 00:06:06,413
+Return to y equals x minus two.
+
+111
+00:06:06,693 --> 00:06:10,053
+When x is negative one half, y is negative five
+
+112
+00:06:10,073 --> 00:06:13,113
+halves. When x is three, y is one.
+
+113
+00:06:13,273 --> 00:06:16,933
+Our two simultaneous solutions are negative one half with negative
+
+114
+00:06:16,953 --> 00:06:19,333
+five halves, and three with one.
+
+115
+00:06:19,573 --> 00:06:21,633
+Always check the original conditions.
+
+116
+00:06:21,973 --> 00:06:24,953
+For three and one, x really is two more than
+
+117
+00:06:24,973 --> 00:06:29,073
+y. And five times three times one equals fifteen, while
+
+118
+00:06:29,093 --> 00:06:31,233
+three squared plus six is fifteen.
+
+119
+00:06:31,533 --> 00:06:35,193
+Both conditions hold. For negative one half and negative five
+
+120
+00:06:35,213 --> 00:06:37,613
+halves, the first condition also holds.
+
+121
+00:06:37,953 --> 00:06:41,553
+Five times x times y gives twenty-five quarters, and x
+
+122
+00:06:41,573 --> 00:06:44,333
+squared plus six gives twenty-five quarters as well.
+
+123
+00:06:44,633 --> 00:06:45,853
+So both pairs work.
+
+124
+00:06:46,193 --> 00:06:49,193
+That's the six-mark November twenty twenty-five question.
+
+125
+00:06:49,573 --> 00:06:54,013
+The marking guideline rewards the equations, substitution, quadratic form
+
+126
+00:06:54,033 --> 00:06:57,453
+and matching values. Make your working visible to the examiner.
+
+127
+00:06:57,473 --> 00:07:01,133
+Now for a third worked problem, but this time there
+
+128
+00:07:01,153 --> 00:07:04,433
+is a twist. Must a line and a parabola always
+
+129
+00:07:04,453 --> 00:07:05,753
+meet at two points?
+
+130
+00:07:06,193 --> 00:07:09,553
+Consider y equals x squared and y equals two x
+
+131
+00:07:09,573 --> 00:07:13,413
+minus one. Before we calculate, make a prediction: will there
+
+132
+00:07:13,433 --> 00:07:16,013
+be two solutions, one, or none?
+
+133
+00:07:16,313 --> 00:07:17,473
+Let us test it.
+
+134
+00:07:17,613 --> 00:07:21,333
+Because both expressions equal y, set x squared equal to
+
+135
+00:07:21,353 --> 00:07:22,813
+two x minus one.
+
+136
+00:07:23,033 --> 00:07:26,453
+Rearrange to x squared minus two x plus one equals
+
+137
+00:07:26,473 --> 00:07:31,133
+zero. Factorise: x minus one, multiplied by x minus one,
+
+138
+00:07:31,153 --> 00:07:34,333
+equals zero. This is the same as x minus one,
+
+139
+00:07:34,353 --> 00:07:36,133
+all squared, equals zero.
+
+140
+00:07:36,313 --> 00:07:38,673
+Both factors give x equals one.
+
+141
+00:07:38,753 --> 00:07:41,133
+That is only one distinct x-value.
+
+142
+00:07:41,573 --> 00:07:44,513
+Substitute into y equals two x minus one.
+
+143
+00:07:44,613 --> 00:07:46,453
+We get y equals one.
+
+144
+00:07:46,553 --> 00:07:49,673
+Our only intersection is the point one, one.
+
+145
+00:07:49,793 --> 00:07:53,353
+Check it: one squared equals one, and two times one
+
+146
+00:07:53,373 --> 00:07:55,133
+minus one also equals one.
+
+147
+00:07:55,153 --> 00:07:58,893
+Watch the line touch the parabola at that exact point,
+
+148
+00:07:58,913 --> 00:08:02,093
+then move away; it does not cross twice.
+
+149
+00:08:02,533 --> 00:08:06,253
+Remember Lesson Two? The discriminant here is zero, giving a
+
+150
+00:08:06,273 --> 00:08:10,153
+repeated root. Do not invent a second different point just
+
+151
+00:08:10,173 --> 00:08:11,573
+because you see two brackets.
+
+152
+00:08:11,973 --> 00:08:14,993
+And if two graphs never meet, there are no real
+
+153
+00:08:15,013 --> 00:08:18,913
+intersection points. The algebra and the graph must tell the
+
+154
+00:08:18,933 --> 00:08:24,253
+same story. To practise, visit equationstationsa dot top, choose Grade
+
+155
+00:08:24,273 --> 00:08:26,913
+Twelve, then Algebra and Equations.
+
+156
+00:08:27,333 --> 00:08:30,913
+The free guided course includes worked examples, a Mastery Bank
+
+157
+00:08:30,933 --> 00:08:33,333
+and an auto-marked knowledge test.
+
+158
+00:08:33,553 --> 00:08:36,493
+Look for the free completion certificate opportunities on the website,
+
+159
+00:08:36,513 --> 00:08:41,073
+too. For structured exam revision, our optional paid Equation Station
+
+160
+00:08:41,093 --> 00:08:44,453
+SA Grade Twelve Student Book and Answer Book are available
+
+161
+00:08:44,473 --> 00:08:45,973
+on the Study Guide page.
+
+162
+00:08:46,313 --> 00:08:49,773
+They cover Paper One and Paper Two practice, worked solutions
+
+163
+00:08:49,793 --> 00:08:53,673
+and revision. The free online lessons and practice remain available
+
+164
+00:08:53,693 --> 00:08:56,253
+to everyone. Now your turn.
+
+165
+00:08:56,433 --> 00:09:00,233
+Pause and solve this website practice: y equals two x
+
+166
+00:09:00,253 --> 00:09:04,333
+minus one, and y equals x squared minus four.
+
+167
+00:09:04,593 --> 00:09:07,433
+Find every matching pair, not just the x-values.
+
+168
+00:09:07,853 --> 00:09:12,653
+Pause now. Ready? Set two x minus one equal to
+
+169
+00:09:12,673 --> 00:09:14,253
+x squared minus four.
+
+170
+00:09:14,613 --> 00:09:19,053
+Rearrange: x squared minus two x minus three equals zero.
+
+171
+00:09:19,073 --> 00:09:23,453
+Factorise into x minus three, multiplied by x plus one,
+
+172
+00:09:23,473 --> 00:09:28,093
+equals zero. So x equals three, or x equals negative
+
+173
+00:09:28,113 --> 00:09:32,253
+one. Substitute into y equals two x minus one.
+
+174
+00:09:32,493 --> 00:09:34,813
+If x is three, y is five.
+
+175
+00:09:35,133 --> 00:09:38,233
+If x is negative one, y is negative three.
+
+176
+00:09:38,433 --> 00:09:42,673
+The intersection points are three, five, and negative one, negative
+
+177
+00:09:42,693 --> 00:09:46,113
+three. Check both pairs in both original equations.
+
+178
+00:09:46,493 --> 00:09:49,353
+If you got stuck, replay the substitution step.
+
+179
+00:09:49,773 --> 00:09:54,233
+Here's the exam routine: identify the simpler equation, rearrange if
+
+180
+00:09:54,253 --> 00:09:59,553
+needed, substitute, solve the quadratic, recover the matching y-values, and
+
+181
+00:09:59,573 --> 00:10:02,373
+check. Sometimes the graphs cross twice.
+
+182
+00:10:02,793 --> 00:10:04,213
+Sometimes they only touch.
+
+183
+00:10:04,573 --> 00:10:07,773
+Never assume every question must give two different answers.
+
+184
+00:10:07,793 --> 00:10:12,733
+Practise this lesson on equationstationsa dot top, and explore the
+
+185
+00:10:12,753 --> 00:10:15,053
+optional Study Guide books if you want more revision.
+
+186
+00:10:15,513 --> 00:10:17,813
+Subscribe and share this with a matric learner who needs
+
+187
+00:10:17,833 --> 00:10:20,913
+it. Keep practising, and I'll see you in the next
+
+188
+00:10:20,933 --> 00:10:22,673
+Equation Station SA lesson.
