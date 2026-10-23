@@ -1,0 +1,1841 @@
+1
+00:00:00,000 --> 00:00:04,911
+Imagine opening your Grade Twelve
+Mathematics Paper One and meeting
+
+2
+00:00:04,911 --> 00:00:09,822
+this equation: two multiplied by two to
+the power of
+
+3
+00:00:09,822 --> 00:00:14,734
+two x, minus nine multiplied by two to
+the power
+
+4
+00:00:14,734 --> 00:00:18,714
+of x, plus four, equals zero.
+
+5
+00:00:18,714 --> 00:00:21,927
+The x is in the exponent.
+
+6
+00:00:21,927 --> 00:00:27,104
+The first power looks twice as large as
+the second.
+
+7
+00:00:27,104 --> 00:00:29,826
+And there are three terms.
+
+8
+00:00:29,826 --> 00:00:33,315
+Where would you even begin?
+
+9
+00:00:33,315 --> 00:00:38,226
+Here is the surprise: this is actually a
+quadratic equation
+
+10
+00:00:38,226 --> 00:00:39,474
+in disguise.
+
+11
+00:00:39,474 --> 00:00:43,178
+And it is not a made-up challenge.
+
+12
+00:00:43,178 --> 00:00:48,089
+It is Question one point one point four
+from the
+
+13
+00:00:48,089 --> 00:00:52,591
+November twenty twenty-five National
+Senior Certificate Mathematics Paper One,
+
+14
+00:00:52,591 --> 00:00:55,098
+worth four marks.
+
+15
+00:00:55,098 --> 00:00:58,311
+Welcome back to Equation Station SA.
+
+16
+00:00:58,311 --> 00:00:59,559
+I'm Chris.
+
+17
+00:00:59,559 --> 00:01:04,470
+In Lesson Five, we are going to uncover
+exponential equations
+
+18
+00:01:04,470 --> 00:01:09,382
+and hidden quadratics, build the method
+step by step, and
+
+19
+00:01:09,382 --> 00:01:12,594
+practise the mistakes examiners really
+see.
+
+20
+00:01:12,594 --> 00:01:17,506
+By the end, you should be able to
+recognise the
+
+21
+00:01:17,506 --> 00:01:22,959
+pattern before anyone tells you which
+method to use.
+
+22
+00:01:22,959 --> 00:01:25,681
+Think back to Lesson One.
+
+23
+00:01:25,681 --> 00:01:30,592
+If I show you x squared minus five x plus
+
+24
+00:01:30,592 --> 00:01:35,503
+six equals zero, you can factorise it
+into x minus
+
+25
+00:01:35,503 --> 00:01:39,698
+two, multiplied by x minus three, equals
+zero.
+
+26
+00:01:39,698 --> 00:01:42,911
+The answers are two and three.
+
+27
+00:01:42,911 --> 00:01:46,615
+We know how to solve that quadratic.
+
+28
+00:01:46,615 --> 00:01:51,526
+Our job today is to recognise when the
+same structure
+
+29
+00:01:51,526 --> 00:01:55,997
+is hiding inside a very different-looking
+equation.
+
+30
+00:01:55,997 --> 00:01:59,210
+First, know where the unknown sits.
+
+31
+00:01:59,210 --> 00:02:04,121
+In x squared, x is the base, and two is
+
+32
+00:02:04,121 --> 00:02:05,370
+the exponent.
+
+33
+00:02:05,370 --> 00:02:10,281
+In two to the power of x, two is the
+
+34
+00:02:10,281 --> 00:02:13,494
+base, and x is the exponent.
+
+35
+00:02:13,494 --> 00:02:16,215
+That second expression is exponential.
+
+36
+00:02:16,215 --> 00:02:21,127
+A negative value of x is allowed; for
+example, two
+
+37
+00:02:21,127 --> 00:02:26,580
+to the power of negative one is one half.
+
+38
+00:02:26,580 --> 00:02:31,491
+We only need a few exponent ideas to
+unlock today's
+
+39
+00:02:31,491 --> 00:02:32,249
+questions.
+
+40
+00:02:32,249 --> 00:02:37,160
+When the bases are the same, multiplying
+powers means adding
+
+41
+00:02:37,160 --> 00:02:38,408
+their exponents.
+
+42
+00:02:38,408 --> 00:02:43,319
+When a power is raised to another power,
+multiply the
+
+43
+00:02:43,319 --> 00:02:44,076
+exponents.
+
+44
+00:02:44,076 --> 00:02:48,988
+And a positive base other than one gives
+a unique
+
+45
+00:02:48,988 --> 00:02:52,477
+output for each real exponent.
+
+46
+00:02:52,477 --> 00:02:57,388
+Here is a quick example from the kind of
+practice
+
+47
+00:02:57,388 --> 00:02:59,127
+on our website.
+
+48
+00:02:59,127 --> 00:03:04,120
+Three to the power of the bracket x minus
+one,
+
+49
+00:03:04,120 --> 00:03:05,369
+equals twenty-seven.
+
+50
+00:03:05,369 --> 00:03:07,599
+Twenty-seven is three cubed.
+
+51
+00:03:07,599 --> 00:03:12,510
+So three to the power of x minus one
+equals
+
+52
+00:03:12,510 --> 00:03:13,759
+three cubed.
+
+53
+00:03:13,759 --> 00:03:18,936
+The bases match, which means x minus one
+equals three.
+
+54
+00:03:18,936 --> 00:03:21,934
+Therefore x equals four.
+
+55
+00:03:21,934 --> 00:03:24,656
+That is the same-base method.
+
+56
+00:03:24,656 --> 00:03:29,567
+One exponential expression equals
+another, and we can make the
+
+57
+00:03:29,567 --> 00:03:31,582
+bases identical.
+
+58
+00:03:31,582 --> 00:03:34,795
+What if the bases are different?
+
+59
+00:03:34,795 --> 00:03:39,707
+Consider eight to the power of x equals
+four to
+
+60
+00:03:39,707 --> 00:03:43,902
+the power of the bracket x plus one.
+
+61
+00:03:43,902 --> 00:03:48,097
+Eight is two cubed; four is two squared.
+
+62
+00:03:48,097 --> 00:03:53,008
+So the left becomes two to the power of
+three
+
+63
+00:03:53,008 --> 00:03:53,765
+x.
+
+64
+00:03:53,765 --> 00:03:58,676
+The right becomes two to the power of two
+times
+
+65
+00:03:58,676 --> 00:04:01,398
+the bracket x plus one.
+
+66
+00:04:01,398 --> 00:04:05,593
+Carefully expand that exponent: two x
+plus two.
+
+67
+00:04:05,593 --> 00:04:10,504
+Now three x equals two x plus two, giving
+x
+
+68
+00:04:10,504 --> 00:04:11,752
+equals two.
+
+69
+00:04:11,752 --> 00:04:16,664
+A quick check confirms that eight squared
+and four cubed
+
+70
+00:04:16,664 --> 00:04:19,170
+are both sixty-four.
+
+71
+00:04:19,170 --> 00:04:23,365
+But please do not use that method
+blindly.
+
+72
+00:04:23,365 --> 00:04:28,277
+We could equate those exponents because
+two exponential expressions were
+
+73
+00:04:28,277 --> 00:04:29,034
+equal.
+
+74
+00:04:29,034 --> 00:04:33,945
+We cannot just equate exponents across
+terms joined by plus
+
+75
+00:04:33,945 --> 00:04:36,452
+and minus signs.
+
+76
+00:04:36,452 --> 00:04:40,156
+Look at the original matric question
+again.
+
+77
+00:04:40,156 --> 00:04:42,386
+It has three terms.
+
+78
+00:04:42,386 --> 00:04:47,297
+What we need now is the single most
+important identity
+
+79
+00:04:47,297 --> 00:04:49,804
+in this lesson.
+
+80
+00:04:49,804 --> 00:04:54,716
+Two to the power of two x is the square
+
+81
+00:04:54,716 --> 00:04:58,419
+of two to the power of x.
+
+82
+00:04:58,419 --> 00:05:00,650
+Let that sink in.
+
+83
+00:05:00,650 --> 00:05:05,561
+Two to the power of two x equals the
+bracket
+
+84
+00:05:05,561 --> 00:05:10,524
+two to the power of x, all squared.
+
+85
+00:05:10,524 --> 00:05:15,435
+That does not mean two multiplied by two
+to the
+
+86
+00:05:15,435 --> 00:05:17,174
+power of x.
+
+87
+00:05:17,174 --> 00:05:20,878
+We can check with x equals two.
+
+88
+00:05:20,878 --> 00:05:25,073
+Two to the power of four equals sixteen.
+
+89
+00:05:25,073 --> 00:05:28,777
+Two squared, all squared, also equals
+sixteen.
+
+90
+00:05:28,777 --> 00:05:32,481
+But two times two squared is eight.
+
+91
+00:05:32,481 --> 00:05:35,970
+The last expression is different.
+
+92
+00:05:35,970 --> 00:05:39,183
+Why does the correct rule work?
+
+93
+00:05:39,183 --> 00:05:43,378
+Because two x means x multiplied by two.
+
+94
+00:05:43,378 --> 00:05:48,289
+When we square the entire power two to
+the power
+
+95
+00:05:48,289 --> 00:05:53,466
+of x, the power-of-a-power rule
+multiplies its exponent by two.
+
+96
+00:05:53,466 --> 00:05:58,377
+So the result is two to the power of two
+
+97
+00:05:58,377 --> 00:05:59,902
+x.
+
+98
+00:05:59,902 --> 00:06:04,588
+Now look closely at what repeats in our
+question.
+
+99
+00:06:04,588 --> 00:06:09,499
+The first term contains the square of two
+to the
+
+100
+00:06:09,499 --> 00:06:11,239
+power of x.
+
+101
+00:06:11,239 --> 00:06:16,150
+The second term contains two to the power
+of x
+
+102
+00:06:16,150 --> 00:06:17,889
+on its own.
+
+103
+00:06:17,889 --> 00:06:22,883
+This is the same pattern as two times
+something squared,
+
+104
+00:06:22,883 --> 00:06:27,354
+minus nine times that something, plus
+four.
+
+105
+00:06:27,354 --> 00:06:31,058
+Let's give that something a new name.
+
+106
+00:06:31,058 --> 00:06:35,744
+Let k equal two to the power of x.
+
+107
+00:06:35,744 --> 00:06:40,655
+Then two to the power of two x becomes k
+
+108
+00:06:40,655 --> 00:06:42,180
+squared.
+
+109
+00:06:42,180 --> 00:06:47,091
+Our entire equation transforms into two k
+squared minus nine
+
+110
+00:06:47,091 --> 00:06:49,813
+k plus four equals zero.
+
+111
+00:06:49,813 --> 00:06:54,990
+We have turned an exponential equation
+into an ordinary quadratic.
+
+112
+00:06:54,990 --> 00:06:59,901
+The letter k is only a temporary
+substitute; our final
+
+113
+00:06:59,901 --> 00:07:03,881
+job is still to find x.
+
+114
+00:07:03,881 --> 00:07:08,792
+Before solving, one useful observation: k
+must be greater than
+
+115
+00:07:08,792 --> 00:07:13,970
+zero, because two to any real power is
+always positive.
+
+116
+00:07:13,970 --> 00:07:18,881
+Keep that in mind when you later decide
+which answers
+
+117
+00:07:18,881 --> 00:07:20,897
+are possible.
+
+118
+00:07:20,897 --> 00:07:23,618
+Now try the factorisation yourself.
+
+119
+00:07:23,618 --> 00:07:26,831
+Pause if you need a moment.
+
+120
+00:07:26,831 --> 00:07:31,742
+Which two brackets will give two k
+squared minus nine
+
+121
+00:07:31,742 --> 00:07:34,249
+k plus four?
+
+122
+00:07:34,249 --> 00:07:39,160
+We get two k minus one, multiplied by k
+minus
+
+123
+00:07:39,160 --> 00:07:40,900
+four, equals zero.
+
+124
+00:07:40,900 --> 00:07:45,811
+Multiply the brackets to check: two k
+squared, minus eight
+
+125
+00:07:45,811 --> 00:07:48,533
+k, minus k, plus four.
+
+126
+00:07:48,533 --> 00:07:53,444
+That is exactly two k squared minus nine
+k plus
+
+127
+00:07:53,444 --> 00:07:54,968
+four.
+
+128
+00:07:54,968 --> 00:07:59,961
+By the zero-product property, two k minus
+one equals zero,
+
+129
+00:07:59,961 --> 00:08:03,174
+or k minus four equals zero.
+
+130
+00:08:03,174 --> 00:08:08,628
+So k equals one half, or k equals four.
+
+131
+00:08:08,628 --> 00:08:10,367
+Stop right here.
+
+132
+00:08:10,367 --> 00:08:13,089
+Are those our final answers?
+
+133
+00:08:13,089 --> 00:08:13,846
+No.
+
+134
+00:08:13,846 --> 00:08:18,041
+The original question asks for x, not k.
+
+135
+00:08:18,041 --> 00:08:22,952
+This is the step many candidates failed
+to complete, according
+
+136
+00:08:22,952 --> 00:08:27,863
+to the Department of Basic Education's
+twenty twenty-five Mathematics Diagnostic
+
+137
+00:08:27,863 --> 00:08:29,388
+Report.
+
+138
+00:08:29,388 --> 00:08:32,601
+Return to the meaning of k.
+
+139
+00:08:32,601 --> 00:08:38,545
+We said k equals two to the power of x.
+
+140
+00:08:38,545 --> 00:08:43,457
+For the first branch, two to the power of
+x
+
+141
+00:08:43,457 --> 00:08:45,196
+equals one half.
+
+142
+00:08:45,196 --> 00:08:50,373
+One half is two to the power of negative
+one.
+
+143
+00:08:50,373 --> 00:08:53,862
+So x equals negative one.
+
+144
+00:08:53,862 --> 00:08:58,774
+For the second branch, two to the power
+of x
+
+145
+00:08:58,774 --> 00:09:00,022
+equals four.
+
+146
+00:09:00,022 --> 00:09:02,252
+Four is two squared.
+
+147
+00:09:02,252 --> 00:09:05,250
+So x equals two.
+
+148
+00:09:05,250 --> 00:09:10,162
+The two answers are x equals negative
+one, or x
+
+149
+00:09:10,162 --> 00:09:12,177
+equals two.
+
+150
+00:09:12,177 --> 00:09:16,863
+Notice that negative one is a perfectly
+valid exponent.
+
+151
+00:09:16,863 --> 00:09:21,549
+We did not say x had to be positive.
+
+152
+00:09:21,549 --> 00:09:26,461
+We said two to the power of x had to
+
+153
+00:09:26,461 --> 00:09:27,709
+be positive.
+
+154
+00:09:27,709 --> 00:09:32,180
+Those statements are not the same thing.
+
+155
+00:09:32,180 --> 00:09:36,375
+Let's verify both answers using the
+original question.
+
+156
+00:09:36,375 --> 00:09:41,287
+For x equals negative one, the first term
+is two
+
+157
+00:09:41,287 --> 00:09:44,499
+times one quarter, or one half.
+
+158
+00:09:44,499 --> 00:09:49,411
+The second term is nine times one half,
+or four
+
+159
+00:09:49,411 --> 00:09:51,150
+and a half.
+
+160
+00:09:51,150 --> 00:09:56,061
+One half minus four and a half plus four
+equals
+
+161
+00:09:56,061 --> 00:09:57,586
+zero.
+
+162
+00:09:57,586 --> 00:10:02,497
+For x equals two, the first term is two
+times
+
+163
+00:10:02,497 --> 00:10:04,236
+sixteen, or thirty-two.
+
+164
+00:10:04,236 --> 00:10:08,923
+The middle term is nine times four, or
+thirty-six.
+
+165
+00:10:08,923 --> 00:10:13,885
+Thirty-two minus thirty-six plus four
+also equals zero.
+
+166
+00:10:13,885 --> 00:10:15,624
+Both solutions work.
+
+167
+00:10:15,624 --> 00:10:20,536
+The original question was worth four
+marks, and the important
+
+168
+00:10:20,536 --> 00:10:25,222
+lesson is not just the final pair of
+numbers.
+
+169
+00:10:25,222 --> 00:10:30,215
+It is the chain of reasoning: spot a
+repeated expression,
+
+170
+00:10:30,215 --> 00:10:35,208
+rewrite its square, substitute, solve the
+quadratic, return to x,
+
+171
+00:10:35,208 --> 00:10:37,224
+and check.
+
+172
+00:10:37,224 --> 00:10:42,217
+Let's give that routine a short name:
+recognise, substitute, solve,
+
+173
+00:10:42,217 --> 00:10:43,465
+return, verify.
+
+174
+00:10:43,465 --> 00:10:48,376
+And remember, sometimes you must rewrite
+the bases even before
+
+175
+00:10:48,376 --> 00:10:51,865
+you can recognise the substitution.
+
+176
+00:10:51,865 --> 00:10:56,776
+Now I want to test whether you can carry
+that
+
+177
+00:10:56,776 --> 00:11:01,688
+logic into a question where the two bases
+do not
+
+178
+00:11:01,688 --> 00:11:03,427
+appear to match.
+
+179
+00:11:03,427 --> 00:11:08,338
+This is where strong exam technique
+begins: not memorising one
+
+180
+00:11:08,338 --> 00:11:13,250
+exact question, but understanding why the
+method works when the
+
+181
+00:11:13,250 --> 00:11:15,265
+numbers change.
+
+182
+00:11:15,265 --> 00:11:20,176
+Look at four to the power of x, minus
+five
+
+183
+00:11:20,176 --> 00:11:25,088
+times two to the power of x, plus four,
+equals
+
+184
+00:11:25,088 --> 00:11:26,612
+zero.
+
+185
+00:11:26,612 --> 00:11:31,523
+We have a four in one base and a two
+
+186
+00:11:31,523 --> 00:11:33,263
+in the other.
+
+187
+00:11:33,263 --> 00:11:35,985
+But four is two squared.
+
+188
+00:11:35,985 --> 00:11:40,896
+That means four to the power of x is two
+
+189
+00:11:40,896 --> 00:11:45,807
+to the power of two x, which is the
+square
+
+190
+00:11:45,807 --> 00:11:49,511
+of two to the power of x.
+
+191
+00:11:49,511 --> 00:11:53,491
+The repeated expression is visible again.
+
+192
+00:11:53,491 --> 00:11:58,177
+Let k equal two to the power of x.
+
+193
+00:11:58,177 --> 00:12:03,088
+The equation becomes k squared minus five
+k plus four
+
+194
+00:12:03,088 --> 00:12:04,337
+equals zero.
+
+195
+00:12:04,337 --> 00:12:09,330
+Factorise into k minus one, multiplied by
+k minus four,
+
+196
+00:12:09,330 --> 00:12:10,578
+equals zero.
+
+197
+00:12:10,578 --> 00:12:15,540
+So k equals one or k equals four.
+
+198
+00:12:15,540 --> 00:12:17,771
+Translate both answers back.
+
+199
+00:12:17,771 --> 00:12:22,682
+Two to the power of x equals one gives x
+
+200
+00:12:22,682 --> 00:12:23,931
+equals zero.
+
+201
+00:12:23,931 --> 00:12:28,842
+Two to the power of x equals four gives x
+
+202
+00:12:28,842 --> 00:12:30,090
+equals two.
+
+203
+00:12:30,090 --> 00:12:33,303
+The solutions are zero and two.
+
+204
+00:12:33,303 --> 00:12:38,214
+Check the first in the original: one
+minus five plus
+
+205
+00:12:38,214 --> 00:12:39,953
+four equals zero.
+
+206
+00:12:39,953 --> 00:12:45,898
+Check the second: sixteen minus twenty
+plus four equals zero.
+
+207
+00:12:45,898 --> 00:12:50,093
+What made this different from our exam
+question?
+
+208
+00:12:50,093 --> 00:12:51,833
+Only the appearance.
+
+209
+00:12:51,833 --> 00:12:56,744
+We had to rewrite four to the power of x
+
+210
+00:12:56,744 --> 00:12:59,957
+before the repeated expression became
+obvious.
+
+211
+00:12:59,957 --> 00:13:03,937
+The underlying method stayed the same.
+
+212
+00:13:03,937 --> 00:13:09,114
+Now comes the trap I really want you to
+understand.
+
+213
+00:13:09,114 --> 00:13:14,025
+Consider four to the power of x, plus
+three times
+
+214
+00:13:14,025 --> 00:13:19,970
+two to the power of x, minus four, equals
+zero.
+
+215
+00:13:19,970 --> 00:13:24,656
+Try the substitution before listening to
+the next step.
+
+216
+00:13:24,656 --> 00:13:29,342
+Let k equal two to the power of x.
+
+217
+00:13:29,342 --> 00:13:34,253
+We obtain k squared plus three k minus
+four equals
+
+218
+00:13:34,253 --> 00:13:35,011
+zero.
+
+219
+00:13:35,011 --> 00:13:40,004
+Factorise into k plus four, multiplied by
+k minus one,
+
+220
+00:13:40,004 --> 00:13:42,019
+equals zero.
+
+221
+00:13:42,019 --> 00:13:46,931
+The quadratic says k equals negative
+four, or k equals
+
+222
+00:13:46,931 --> 00:13:47,688
+one.
+
+223
+00:13:47,688 --> 00:13:53,632
+Is every quadratic answer valid in the
+original exponential equation?
+
+224
+00:13:53,632 --> 00:13:58,544
+No. k equals two to the power of x, and
+
+225
+00:13:58,544 --> 00:14:03,455
+two to the power of x is always strictly
+positive
+
+226
+00:14:03,455 --> 00:14:05,194
+for real x.
+
+227
+00:14:05,194 --> 00:14:07,916
+It cannot equal negative four.
+
+228
+00:14:07,916 --> 00:14:10,423
+Reject that branch.
+
+229
+00:14:10,423 --> 00:14:13,144
+The other branch is possible.
+
+230
+00:14:13,144 --> 00:14:18,056
+Two to the power of x equals one, so x
+
+231
+00:14:18,056 --> 00:14:19,304
+equals zero.
+
+232
+00:14:19,304 --> 00:14:23,284
+This is our only real solution.
+
+233
+00:14:23,284 --> 00:14:26,497
+Be precise about what we rejected.
+
+234
+00:14:26,497 --> 00:14:30,201
+We rejected negative k, not negative x.
+
+235
+00:14:30,201 --> 00:14:35,112
+In the official exam question, x equals
+negative one was
+
+236
+00:14:35,112 --> 00:14:40,023
+allowed because two to the power of
+negative one is
+
+237
+00:14:40,023 --> 00:14:41,763
+positive one half.
+
+238
+00:14:41,763 --> 00:14:46,674
+Here, negative four is proposed as the
+output of two
+
+239
+00:14:46,674 --> 00:14:52,127
+to the power of x, and that is
+impossible.
+
+240
+00:14:52,127 --> 00:14:57,039
+Picture the graph of y equals two to the
+power
+
+241
+00:14:57,039 --> 00:14:58,287
+of x.
+
+242
+00:14:58,287 --> 00:15:01,500
+It stays above the horizontal axis.
+
+243
+00:15:01,500 --> 00:15:06,411
+Even when x becomes very negative, the
+graph approaches zero
+
+244
+00:15:06,411 --> 00:15:08,641
+but never reaches it.
+
+245
+00:15:08,641 --> 00:15:14,095
+That is why k cannot be negative or zero.
+
+246
+00:15:14,095 --> 00:15:16,817
+A brief comparison will help.
+
+247
+00:15:16,817 --> 00:15:21,728
+If k equals x squared, then k may be zero
+
+248
+00:15:21,728 --> 00:15:22,976
+or positive.
+
+249
+00:15:22,976 --> 00:15:27,887
+If k equals two to the power of x, k
+
+250
+00:15:27,887 --> 00:15:30,118
+must be strictly positive.
+
+251
+00:15:30,118 --> 00:15:35,029
+We always inherit the restrictions of the
+original expression we
+
+252
+00:15:35,029 --> 00:15:36,554
+replaced.
+
+253
+00:15:36,554 --> 00:15:41,465
+Now, how do we choose a method quickly in
+an
+
+254
+00:15:41,465 --> 00:15:42,222
+examination?
+
+255
+00:15:42,222 --> 00:15:44,452
+Start with two questions.
+
+256
+00:15:44,452 --> 00:15:49,364
+First: is one exponential expression
+equal to another, and can
+
+257
+00:15:49,364 --> 00:15:52,577
+I give them the same base?
+
+258
+00:15:52,577 --> 00:15:55,789
+If yes, consider equating the exponents.
+
+259
+00:15:55,789 --> 00:16:00,701
+Second: do I see the same expression
+appearing once and
+
+260
+00:16:00,701 --> 00:16:04,404
+squared in an equation with several
+terms?
+
+261
+00:16:04,404 --> 00:16:07,402
+If yes, consider substitution.
+
+262
+00:16:07,402 --> 00:16:12,314
+For instance, three to the power of the
+bracket x
+
+263
+00:16:12,314 --> 00:16:16,509
+plus one equals eighty-one is a same-base
+question.
+
+264
+00:16:16,509 --> 00:16:21,420
+Eighty-one equals three to the fourth, so
+x plus one
+
+265
+00:16:21,420 --> 00:16:22,668
+equals four.
+
+266
+00:16:22,668 --> 00:16:25,666
+Therefore x equals three.
+
+267
+00:16:25,666 --> 00:16:30,577
+But three to the power of two x, minus
+ten
+
+268
+00:16:30,577 --> 00:16:35,488
+times three to the power of x, plus nine,
+equals
+
+269
+00:16:35,488 --> 00:16:38,210
+zero, is a hidden quadratic.
+
+270
+00:16:38,210 --> 00:16:43,121
+If k equals three to the power of x, the
+
+271
+00:16:43,121 --> 00:16:48,033
+equation becomes k squared minus ten k
+plus nine equals
+
+272
+00:16:48,033 --> 00:16:48,790
+zero.
+
+273
+00:16:48,790 --> 00:16:53,967
+Its factors are k minus one and k minus
+nine.
+
+274
+00:16:53,967 --> 00:16:58,878
+Hence k equals one or nine, giving x
+equals zero
+
+275
+00:16:58,878 --> 00:17:00,894
+or two.
+
+276
+00:17:00,894 --> 00:17:05,089
+You don't have to memorise two unrelated
+tricks.
+
+277
+00:17:05,089 --> 00:17:10,266
+The first equation is solved by making
+matching powers equal.
+
+278
+00:17:10,266 --> 00:17:15,177
+The second uses a repeated expression and
+the quadratic structure
+
+279
+00:17:15,177 --> 00:17:17,684
+you already know.
+
+280
+00:17:17,684 --> 00:17:21,388
+Let's remove some of my guidance now.
+
+281
+00:17:21,388 --> 00:17:26,299
+On the screen is two to the power of two
+
+282
+00:17:26,299 --> 00:17:31,292
+x, minus six times two to the power of x,
+
+283
+00:17:31,292 --> 00:17:33,523
+plus eight, equals zero.
+
+284
+00:17:33,523 --> 00:17:35,262
+Pause the video.
+
+285
+00:17:35,262 --> 00:17:40,174
+Write the substitution, find every
+possible k, and return to
+
+286
+00:17:40,174 --> 00:17:43,663
+x before checking my answer.
+
+287
+00:17:43,663 --> 00:17:45,893
+Here is the solution.
+
+288
+00:17:45,893 --> 00:17:50,579
+Let k equal two to the power of x.
+
+289
+00:17:50,579 --> 00:17:55,757
+Then k squared minus six k plus eight
+equals zero.
+
+290
+00:17:55,757 --> 00:18:00,934
+We factorise into k minus two, times k
+minus four.
+
+291
+00:18:00,934 --> 00:18:04,147
+So k equals two or four.
+
+292
+00:18:04,147 --> 00:18:09,058
+Returning to the original variable gives
+x equals one or
+
+293
+00:18:09,058 --> 00:18:09,815
+two.
+
+294
+00:18:09,815 --> 00:18:15,269
+Both corresponding k-values are positive,
+so both are possible.
+
+295
+00:18:15,269 --> 00:18:20,180
+If you stopped at k equals two and k
+equals
+
+296
+00:18:20,180 --> 00:18:25,091
+four, now is the time to repair that
+habit. k
+
+297
+00:18:25,091 --> 00:18:27,322
+is the temporary variable.
+
+298
+00:18:27,322 --> 00:18:30,319
+The question wants x.
+
+299
+00:18:30,319 --> 00:18:35,231
+We can take today's idea further without
+adding a brand-new
+
+300
+00:18:35,231 --> 00:18:36,479
+solving technique.
+
+301
+00:18:36,479 --> 00:18:41,165
+A hidden quadratic does not have to be
+exponential.
+
+302
+00:18:41,165 --> 00:18:46,158
+Look at x to the fourth, minus thirteen x
+squared,
+
+303
+00:18:46,158 --> 00:18:49,156
+plus thirty-six, equals zero.
+
+304
+00:18:49,156 --> 00:18:52,369
+It looks like a fourth-degree equation.
+
+305
+00:18:52,369 --> 00:18:57,280
+But x to the fourth is the square of x
+
+306
+00:18:57,280 --> 00:18:58,037
+squared.
+
+307
+00:18:58,037 --> 00:19:01,250
+The repeated expression is x squared.
+
+308
+00:19:01,250 --> 00:19:03,972
+Let k equal x squared.
+
+309
+00:19:03,972 --> 00:19:08,883
+The equation becomes k squared minus
+thirteen k plus thirty-six
+
+310
+00:19:08,883 --> 00:19:10,899
+equals zero.
+
+311
+00:19:10,899 --> 00:19:15,892
+Factorise into k minus nine, multiplied
+by k minus four,
+
+312
+00:19:15,892 --> 00:19:17,140
+equals zero.
+
+313
+00:19:17,140 --> 00:19:20,353
+Thus k equals nine or four.
+
+314
+00:19:20,353 --> 00:19:25,264
+Return to x: x squared equals nine gives
+x equals
+
+315
+00:19:25,264 --> 00:19:30,175
+negative three or positive three. x
+squared equals four gives
+
+316
+00:19:30,175 --> 00:19:32,897
+negative two or positive two.
+
+317
+00:19:32,897 --> 00:19:36,877
+We have four real solutions altogether.
+
+318
+00:19:36,877 --> 00:19:42,054
+This example is a powerful contrast with
+the exponential problem.
+
+319
+00:19:42,054 --> 00:19:46,966
+If two to the power of x equals four,
+then
+
+320
+00:19:46,966 --> 00:19:48,705
+x equals two.
+
+321
+00:19:48,705 --> 00:19:53,616
+But if x squared equals four, then x can
+be
+
+322
+00:19:53,616 --> 00:19:56,338
+negative two or positive two.
+
+323
+00:19:56,338 --> 00:20:02,283
+The meaning of k determines how we undo
+the substitution.
+
+324
+00:20:02,283 --> 00:20:04,513
+Let's test the restriction.
+
+325
+00:20:04,513 --> 00:20:09,424
+Suppose we have x to the fourth, plus
+five x
+
+326
+00:20:09,424 --> 00:20:12,146
+squared, plus four, equals zero.
+
+327
+00:20:12,146 --> 00:20:14,868
+Let k equal x squared.
+
+328
+00:20:14,868 --> 00:20:19,779
+We get k squared plus five k plus four
+equals
+
+329
+00:20:19,779 --> 00:20:20,536
+zero.
+
+330
+00:20:20,536 --> 00:20:25,447
+Factorise into k plus one, times k plus
+four, equals
+
+331
+00:20:25,447 --> 00:20:26,204
+zero.
+
+332
+00:20:26,204 --> 00:20:31,167
+So k equals negative one or negative
+four.
+
+333
+00:20:31,167 --> 00:20:36,078
+But k stands for x squared, and the
+square of
+
+334
+00:20:36,078 --> 00:20:39,291
+a real number cannot be negative.
+
+335
+00:20:39,291 --> 00:20:41,030
+Reject both possibilities.
+
+336
+00:20:41,030 --> 00:20:45,010
+Therefore there are no real solutions.
+
+337
+00:20:45,010 --> 00:20:49,922
+It is important to say no real solutions,
+not just
+
+338
+00:20:49,922 --> 00:20:51,170
+no solutions.
+
+339
+00:20:51,170 --> 00:20:56,081
+We are working in the real-number context
+used for these
+
+340
+00:20:56,081 --> 00:20:58,588
+Grade Twelve questions.
+
+341
+00:20:58,588 --> 00:21:02,783
+Before our final practice, let's diagnose
+three mistakes.
+
+342
+00:21:02,783 --> 00:21:07,694
+Mistake one: writing two to the power of
+two x
+
+343
+00:21:07,694 --> 00:21:12,871
+as two multiplied by two to the power of
+x.
+
+344
+00:21:12,871 --> 00:21:15,593
+That breaks the exponent law.
+
+345
+00:21:15,593 --> 00:21:20,504
+Mistake two: finding k and stopping, even
+though the unknown
+
+346
+00:21:20,504 --> 00:21:21,753
+is x.
+
+347
+00:21:21,753 --> 00:21:26,664
+Mistake three: keeping an impossible k,
+or rejecting a negative
+
+348
+00:21:26,664 --> 00:21:28,894
+x that actually works.
+
+349
+00:21:28,894 --> 00:21:34,839
+Those errors all come from forgetting
+what the expression means.
+
+350
+00:21:34,839 --> 00:21:37,561
+Here are two independent challenges.
+
+351
+00:21:37,561 --> 00:21:42,472
+Please pause the video and solve them on
+paper before
+
+352
+00:21:42,472 --> 00:21:45,470
+I reveal the answers.
+
+353
+00:21:45,470 --> 00:21:50,381
+Question one: nine to the power of x,
+minus four
+
+354
+00:21:50,381 --> 00:21:55,292
+times three to the power of x, plus
+three, equals
+
+355
+00:21:55,292 --> 00:21:56,817
+zero.
+
+356
+00:21:56,817 --> 00:22:01,810
+Question two: x to the fourth, minus ten
+x squared,
+
+357
+00:22:01,810 --> 00:22:04,808
+plus nine, equals zero.
+
+358
+00:22:04,808 --> 00:22:08,021
+Start by identifying the repeated
+expression.
+
+359
+00:22:08,021 --> 00:22:12,932
+Then do the substitution, solve, return,
+and check which answers
+
+360
+00:22:12,932 --> 00:22:14,180
+are allowed.
+
+361
+00:22:14,180 --> 00:22:17,669
+Give yourself real thinking time.
+
+362
+00:22:17,669 --> 00:22:20,667
+Ready for the solutions?
+
+363
+00:22:20,667 --> 00:22:25,578
+For question one, nine to the power of x
+is
+
+364
+00:22:25,578 --> 00:22:30,264
+the square of three to the power of x.
+
+365
+00:22:30,264 --> 00:22:34,951
+Let k equal three to the power of x.
+
+366
+00:22:34,951 --> 00:22:40,128
+Then k squared minus four k plus three
+equals zero.
+
+367
+00:22:40,128 --> 00:22:45,121
+This factorises into k minus one, times k
+minus three,
+
+368
+00:22:45,121 --> 00:22:46,369
+equals zero.
+
+369
+00:22:46,369 --> 00:22:49,582
+So k equals one or three.
+
+370
+00:22:49,582 --> 00:22:54,493
+Going back gives three to the power of x
+equals
+
+371
+00:22:54,493 --> 00:22:59,670
+one, or three to the power of x equals
+three.
+
+372
+00:22:59,670 --> 00:23:03,651
+Therefore x equals zero or one.
+
+373
+00:23:03,651 --> 00:23:07,846
+For question two, let k equal x squared.
+
+374
+00:23:07,846 --> 00:23:12,757
+We get k squared minus ten k plus nine
+equals
+
+375
+00:23:12,757 --> 00:23:13,514
+zero.
+
+376
+00:23:13,514 --> 00:23:18,200
+Factorise into k minus one, times k minus
+nine.
+
+377
+00:23:18,200 --> 00:23:21,413
+So k equals one or nine.
+
+378
+00:23:21,413 --> 00:23:26,324
+This time, going back produces x equals
+negative one, positive
+
+379
+00:23:26,324 --> 00:23:29,537
+one, negative three or positive three.
+
+380
+00:23:29,537 --> 00:23:32,535
+Four values in total.
+
+381
+00:23:32,535 --> 00:23:37,446
+If you made a mistake, identify the stage
+where it
+
+382
+00:23:37,446 --> 00:23:38,203
+happened.
+
+383
+00:23:38,203 --> 00:23:41,416
+Did you miss the repeated expression?
+
+384
+00:23:41,416 --> 00:23:45,120
+Did you use an incorrect exponent law?
+
+385
+00:23:45,120 --> 00:23:47,350
+Did you factorise incorrectly?
+
+386
+00:23:47,350 --> 00:23:51,545
+Or did you forget to return to x?
+
+387
+00:23:51,545 --> 00:23:56,457
+Practising that diagnosis is much more
+useful than simply copying
+
+388
+00:23:56,457 --> 00:23:58,472
+the solution.
+
+389
+00:23:58,472 --> 00:24:03,384
+One final boundary to remember: not every
+exponential equation has
+
+390
+00:24:03,384 --> 00:24:08,070
+an answer that can be written using
+whole-number powers.
+
+391
+00:24:08,070 --> 00:24:12,981
+If two to the power of x equals seven,
+matching
+
+392
+00:24:12,981 --> 00:24:16,194
+simple integer exponents won't finish it.
+
+393
+00:24:16,194 --> 00:24:21,105
+Logarithms can help in such cases, and we
+treat those
+
+394
+00:24:21,105 --> 00:24:26,016
+methods more fully with logarithmic
+functions elsewhere in the CAPS
+
+395
+00:24:26,016 --> 00:24:26,773
+course.
+
+396
+00:24:26,773 --> 00:24:31,685
+For today's lesson, our focus has been
+same-base equations and
+
+397
+00:24:31,685 --> 00:24:36,647
+quadratic substitution, which you should
+now recognise confidently.
+
+398
+00:24:36,647 --> 00:24:39,369
+Now visit equationstationsa dot top.
+
+399
+00:24:39,369 --> 00:24:44,280
+Open our Grade Twelve Algebra and
+Equations course, work through
+
+400
+00:24:44,280 --> 00:24:49,191
+the free Mastery Bank, and test what you
+can do
+
+401
+00:24:49,191 --> 00:24:52,404
+without a video guiding every step.
+
+402
+00:24:52,404 --> 00:24:57,090
+Use the relevant quiz and completion
+certificate where available.
+
+403
+00:24:57,090 --> 00:25:02,001
+Our Grade Twelve Mathematics study guide
+is also there if
+
+404
+00:25:02,001 --> 00:25:05,490
+you want more structured revision.
+
+405
+00:25:05,490 --> 00:25:10,177
+In Lesson Six, we will move to surd
+equations.
+
+406
+00:25:10,177 --> 00:25:15,088
+Squaring both sides can give an answer
+that looks correct
+
+407
+00:25:15,088 --> 00:25:17,809
+but fails the original equation.
+
+408
+00:25:17,809 --> 00:25:22,721
+There is a connection with today's
+lesson: an algebraic result
+
+409
+00:25:22,721 --> 00:25:27,632
+is only a valid solution when it
+satisfies the original
+
+410
+00:25:27,632 --> 00:25:29,156
+problem.
+
+411
+00:25:29,156 --> 00:25:32,369
+Thank you for learning with me.
+
+412
+00:25:32,369 --> 00:25:36,564
+I'm Chris, and this is Equation Station
+SA.
+
+413
+00:25:36,564 --> 00:25:41,475
+Recognise the structure, show the
+mathematics, and always return to
+
+414
+00:25:41,475 --> 00:25:43,000
+x.
