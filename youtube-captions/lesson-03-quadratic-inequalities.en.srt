@@ -1,0 +1,900 @@
+1
+00:00:00,000 --> 00:00:02,690
+Welcome back to Equation Station SA!
+
+2
+00:00:02,960 --> 00:00:06,370
+I'm Chris, and today I have a
+question for you.
+
+3
+00:00:06,680 --> 00:00:11,250
+In an exam, you factorise a quadratic
+and find two critical values.
+
+4
+00:00:11,460 --> 00:00:14,170
+But which values of x do you
+actually choose?
+
+5
+00:00:14,480 --> 00:00:17,750
+The numbers between them, or the
+numbers outside them?
+
+6
+00:00:18,080 --> 00:00:22,840
+Get that decision wrong, and even perfect
+factorisation won't give you the correct
+
+7
+00:00:22,860 --> 00:00:27,680
+final answer. Look at this inequality from a
+twenty twenty six Western Cape
+
+8
+00:00:27,700 --> 00:00:29,370
+provincial Mathematics paper.
+
+9
+00:00:29,820 --> 00:00:31,450
+We'll solve it together later.
+
+10
+00:00:31,860 --> 00:00:35,550
+First, I want to show you a method that
+makes your choice logical,
+
+11
+00:00:35,800 --> 00:00:41,200
+not a guess. In our previous Algebra lessons, we
+solved equations by factorisation
+
+12
+00:00:41,220 --> 00:00:43,330
+and with the quadratic formula.
+
+13
+00:00:43,660 --> 00:00:47,530
+An equation might ask where a
+quadratic expression equals zero.
+
+14
+00:00:47,780 --> 00:00:52,400
+An inequality asks something different: where
+is that expression greater than
+
+15
+00:00:52,420 --> 00:00:56,550
+zero, less than zero, or possibly
+equal to zero as well?
+
+16
+00:00:57,080 --> 00:01:01,330
+Think about a graph. When the curve lies
+above the horizontal axis,
+
+17
+00:01:01,540 --> 00:01:03,310
+its y value is positive.
+
+18
+00:01:03,780 --> 00:01:06,630
+Below that axis, its y value is negative.
+
+19
+00:01:06,880 --> 00:01:10,090
+And exactly on the axis, its
+value is zero.
+
+20
+00:01:10,600 --> 00:01:12,350
+Here's a quick picture in your mind.
+
+21
+00:01:12,640 --> 00:01:18,070
+If I ask when a curve is BELOW the x axis,
+I'm not asking for a single point.
+
+22
+00:01:18,260 --> 00:01:23,010
+I'm asking for every x value across the part
+of the graph that's below it.
+
+23
+00:01:23,120 --> 00:01:25,270
+That's our whole big idea today.
+
+24
+00:01:25,460 --> 00:01:29,710
+We'll use it to turn four symbols
+greater than, less than,
+
+25
+00:01:29,820 --> 00:01:34,240
+greater than or equal to, and less than or
+equal to into correct answers on
+
+26
+00:01:34,260 --> 00:01:38,760
+a number line. Let's start with a real three
+mark question from the Mpumalanga
+
+27
+00:01:38,780 --> 00:01:42,470
+June twenty twenty six Grade twelve
+Mathematics Paper One.
+
+28
+00:01:42,940 --> 00:01:46,990
+Solve x squared plus five x, less
+than or equal to zero.
+
+29
+00:01:47,440 --> 00:01:49,030
+The first step is familiar.
+
+30
+00:01:49,340 --> 00:01:51,390
+Take out the common factor, x.
+
+31
+00:01:51,580 --> 00:01:56,710
+We get x multiplied by x plus five,
+less than or equal to zero.
+
+32
+00:01:57,080 --> 00:02:01,930
+To find our critical values, we temporarily
+ask when the product equals zero.
+
+33
+00:02:02,200 --> 00:02:06,840
+That happens when x equals zero, or
+when x plus five equals zero,
+
+34
+00:02:06,860 --> 00:02:09,410
+which gives x equals negative five.
+
+35
+00:02:09,820 --> 00:02:13,120
+Be careful here. These are the
+boundaries of our answer,
+
+36
+00:02:13,140 --> 00:02:15,710
+not automatically the entire answer.
+
+37
+00:02:16,240 --> 00:02:18,970
+Place negative five and zero
+on a number line.
+
+38
+00:02:19,180 --> 00:02:23,990
+They divide all real numbers into three
+regions: left of negative five,
+
+39
+00:02:24,160 --> 00:02:27,410
+between negative five and zero,
+and right of zero.
+
+40
+00:02:27,840 --> 00:02:30,650
+Imagine a road divided by two signposts.
+
+41
+00:02:31,040 --> 00:02:34,780
+A point on one stretch tells us the sign
+everywhere on that stretch,
+
+42
+00:02:34,800 --> 00:02:38,910
+because the polynomial can change sign
+only where it crosses zero.
+
+43
+00:02:39,360 --> 00:02:42,050
+Now let's test one number in each region.
+
+44
+00:02:42,320 --> 00:02:44,690
+To the left, choose negative six.
+
+45
+00:02:45,360 --> 00:02:48,950
+Negative six multiplied by negative
+one is positive six.
+
+46
+00:02:49,160 --> 00:02:52,390
+Between the critical values,
+choose negative two.
+
+47
+00:02:52,820 --> 00:02:56,750
+Negative two multiplied by positive
+three is negative six.
+
+48
+00:02:57,020 --> 00:02:59,530
+To the right, choose positive one.
+
+49
+00:02:59,840 --> 00:03:02,930
+One multiplied by six is positive six.
+
+50
+00:03:03,180 --> 00:03:06,670
+Listen to that pattern: positive,
+negative, positive.
+
+51
+00:03:07,300 --> 00:03:11,170
+The question wants the expression to be
+less than or equal to zero.
+
+52
+00:03:11,340 --> 00:03:14,850
+So we choose the middle region, where
+the expression is negative.
+
+53
+00:03:15,280 --> 00:03:20,120
+And because the question says or equal to, we
+also include both critical values,
+
+54
+00:03:20,140 --> 00:03:22,790
+where the expression is exactly zero.
+
+55
+00:03:23,060 --> 00:03:27,340
+Our final answer is: x is greater than
+or equal to negative five,
+
+56
+00:03:27,360 --> 00:03:29,790
+and less than or equal to zero.
+
+57
+00:03:30,100 --> 00:03:35,230
+We can also write x belongs to the closed
+interval from negative five to zero.
+
+58
+00:03:35,580 --> 00:03:38,290
+Now watch the same answer
+appear on a graph.
+
+59
+00:03:38,780 --> 00:03:41,790
+Draw y equals x squared plus five x.
+
+60
+00:03:42,060 --> 00:03:46,920
+The parabola opens upward and crosses the
+horizontal axis at negative five and
+
+61
+00:03:46,940 --> 00:03:51,390
+zero. Between those crossings, the
+curve dips below the axis.
+
+62
+00:03:51,860 --> 00:03:54,670
+Outside them, the curve rises above it.
+
+63
+00:03:54,720 --> 00:03:58,670
+So the number line, the sign test
+and the graph all agree.
+
+64
+00:03:58,880 --> 00:04:01,850
+We are not shading the space
+inside the parabola.
+
+65
+00:04:01,980 --> 00:04:06,690
+We are identifying the x values for which
+its height is on or below zero.
+
+66
+00:04:07,020 --> 00:04:08,690
+That's an important difference.
+
+67
+00:04:09,020 --> 00:04:11,170
+Here's another way to test
+what you're seeing.
+
+68
+00:04:11,560 --> 00:04:16,200
+Put your finger at x equals negative two on
+the horizontal axis and move up
+
+69
+00:04:16,220 --> 00:04:18,390
+or down until you meet the curve.
+
+70
+00:04:18,540 --> 00:04:24,050
+You land below zero. At x equals one, the
+curve sits above the axis.
+
+71
+00:04:24,340 --> 00:04:26,670
+The visual check agrees with
+the arithmetic.
+
+72
+00:04:27,140 --> 00:04:31,610
+Here's the question I want you to keep asking:
+where is the expression positive,
+
+73
+00:04:32,040 --> 00:04:36,090
+where is it negative, and what does the
+inequality actually request?
+
+74
+00:04:36,420 --> 00:04:40,280
+Let me flip the situation with a four mark
+question from the Free State June
+
+75
+00:04:40,300 --> 00:04:42,390
+twenty twenty six Paper One.
+
+76
+00:04:42,740 --> 00:04:46,630
+Solve x squared plus two x minus
+three, greater than zero.
+
+77
+00:04:47,120 --> 00:04:50,840
+Factorise to get x plus three
+multiplied by x minus one,
+
+78
+00:04:50,860 --> 00:04:55,770
+greater than zero. The critical values are
+negative three and positive one.
+
+79
+00:04:55,900 --> 00:04:57,690
+Now test each interval.
+
+80
+00:04:58,160 --> 00:05:02,700
+Choose negative four on the left: negative one
+times negative five is positive
+
+81
+00:05:02,720 --> 00:05:08,210
+five. Choose zero in the middle: three times
+negative one is negative three.
+
+82
+00:05:08,640 --> 00:05:13,130
+Choose positive two on the right: five
+times one is positive five.
+
+83
+00:05:13,380 --> 00:05:16,830
+Again, the signs are positive,
+negative, positive.
+
+84
+00:05:17,160 --> 00:05:20,570
+But this time the question asks
+for greater than zero.
+
+85
+00:05:20,660 --> 00:05:23,430
+That means we want the two
+outside regions.
+
+86
+00:05:23,720 --> 00:05:26,970
+If you're tempted to choose the middle
+because you see the two roots,
+
+87
+00:05:27,320 --> 00:05:30,760
+remember that zero lies in the middle, and
+the expression there is negative
+
+88
+00:05:30,780 --> 00:05:34,890
+three. It cannot satisfy a greater
+than zero inequality.
+
+89
+00:05:35,220 --> 00:05:41,130
+The answer is: x is less than negative
+three, OR x is greater than one.
+
+90
+00:05:41,400 --> 00:05:42,890
+Did you notice something else?
+
+91
+00:05:43,160 --> 00:05:46,540
+The Free State question uses a
+strict greater than sign,
+
+92
+00:05:46,560 --> 00:05:48,330
+without an equal sign.
+
+93
+00:05:48,440 --> 00:05:51,330
+That means the two critical
+values are excluded.
+
+94
+00:05:51,660 --> 00:05:53,990
+We use open circles on the number line.
+
+95
+00:05:54,140 --> 00:05:59,620
+Why? Because if you substitute x equals
+negative three or x equals one,
+
+96
+00:05:59,640 --> 00:06:02,090
+the expression is exactly zero.
+
+97
+00:06:02,300 --> 00:06:04,870
+And zero is NOT greater than zero.
+
+98
+00:06:04,980 --> 00:06:09,850
+But in our Mpumalanga question, less than or
+equal to included the boundaries,
+
+99
+00:06:09,940 --> 00:06:11,790
+so we used closed circles.
+
+100
+00:06:12,020 --> 00:06:13,500
+And listen to the final language.
+
+101
+00:06:13,520 --> 00:06:18,010
+When we select a connected interval,
+such as negative five to zero,
+
+102
+00:06:18,060 --> 00:06:22,630
+we say x is at least negative
+five AND at most zero.
+
+103
+00:06:22,900 --> 00:06:27,820
+When we select two separate outside regions,
+we say x is less than negative
+
+104
+00:06:27,840 --> 00:06:30,250
+three OR greater than one.
+
+105
+00:06:30,460 --> 00:06:33,930
+Don't change AND into OR just
+because you are rushing.
+
+106
+00:06:34,040 --> 00:06:37,430
+Those words represent completely
+different sets of numbers.
+
+107
+00:06:37,636 --> 00:06:42,069
+Now it's your turn with the Western Cape
+Cape Winelands May and June twenty
+
+108
+00:06:42,089 --> 00:06:44,246
+twenty six Paper One question.
+
+109
+00:06:44,616 --> 00:06:46,086
+It's worth four marks.
+
+110
+00:06:46,736 --> 00:06:52,856
+Solve x squared minus five x plus four,
+minus ten, greater than or equal to
+
+111
+00:06:52,876 --> 00:06:57,666
+zero. Before I show you the solution,
+pause and try three things.
+
+112
+00:06:58,156 --> 00:06:59,426
+Simplify the expression.
+
+113
+00:06:59,756 --> 00:07:01,526
+Find the critical values.
+
+114
+00:07:01,636 --> 00:07:05,526
+Then decide whether you need the
+middle or the outside regions.
+
+115
+00:07:05,786 --> 00:07:07,766
+Give yourself a real attempt.
+
+116
+00:07:08,156 --> 00:07:11,506
+If you write down only the two roots
+without choosing regions,
+
+117
+00:07:11,536 --> 00:07:13,406
+your answer is not finished.
+
+118
+00:07:13,756 --> 00:07:15,786
+Ready? Let's mark it together.
+
+119
+00:07:16,316 --> 00:07:17,966
+First combine the constants.
+
+120
+00:07:18,616 --> 00:07:21,246
+Positive four minus ten is negative six.
+
+121
+00:07:21,396 --> 00:07:27,406
+So we have x squared minus five x minus six,
+greater than or equal to zero.
+
+122
+00:07:27,896 --> 00:07:33,276
+Now factorise. We need two numbers with
+product negative six and sum negative
+
+123
+00:07:33,296 --> 00:07:37,806
+five. Those numbers are negative
+six and positive one.
+
+124
+00:07:38,056 --> 00:07:42,736
+The expression becomes x minus six,
+multiplied by x plus one,
+
+125
+00:07:42,756 --> 00:07:44,966
+greater than or equal to zero.
+
+126
+00:07:45,496 --> 00:07:48,386
+The critical values are six
+and negative one.
+
+127
+00:07:48,656 --> 00:07:50,526
+In the middle, choose zero.
+
+128
+00:07:51,076 --> 00:07:54,176
+Negative six times positive one
+gives negative six,
+
+129
+00:07:54,196 --> 00:07:56,206
+so the middle does not work.
+
+130
+00:07:56,596 --> 00:08:01,026
+On the left of negative one and the right of
+six, the product is positive.
+
+131
+00:08:01,176 --> 00:08:02,726
+That's where we need to be.
+
+132
+00:08:03,036 --> 00:08:07,046
+Because equality is allowed, both
+boundary values are included.
+
+133
+00:08:07,516 --> 00:08:11,456
+Our final answer is: x is less than
+or equal to negative one,
+
+134
+00:08:11,476 --> 00:08:15,106
+OR x is greater than or equal to six.
+
+135
+00:08:15,576 --> 00:08:17,406
+Compare that with your own answer.
+
+136
+00:08:17,656 --> 00:08:18,886
+Did you simplify first?
+
+137
+00:08:19,236 --> 00:08:21,146
+Did you choose the outside intervals?
+
+138
+00:08:21,496 --> 00:08:23,086
+Did you include the endpoints?
+
+139
+00:08:23,496 --> 00:08:26,746
+Those are exactly the decisions
+the memorandum rewards.
+
+140
+00:08:27,336 --> 00:08:30,686
+Here's one trap I want to fix before
+you write another exam.
+
+141
+00:08:31,356 --> 00:08:36,096
+Suppose the question says negative x squared
+plus three x plus four is greater
+
+142
+00:08:36,116 --> 00:08:37,786
+than or equal to zero.
+
+143
+00:08:38,136 --> 00:08:41,346
+You might prefer a positive
+coefficient of x squared.
+
+144
+00:08:41,416 --> 00:08:46,086
+That's fine. But if you multiply the
+entire inequality by negative one,
+
+145
+00:08:46,276 --> 00:08:48,480
+the inequality sign MUST reverse.
+
+146
+00:08:48,500 --> 00:08:54,570
+We get x squared minus three x minus four,
+less than or equal to zero.
+
+147
+00:08:55,100 --> 00:08:59,140
+Factorise it as x minus four,
+multiplied by x plus one,
+
+148
+00:08:59,160 --> 00:09:01,330
+less than or equal to zero.
+
+149
+00:09:01,600 --> 00:09:04,650
+The critical values are
+negative one and four.
+
+150
+00:09:04,976 --> 00:09:09,196
+Since the expression opens upward, it is
+negative between those values,
+
+151
+00:09:09,216 --> 00:09:12,126
+and equality allows us to
+include the endpoints.
+
+152
+00:09:12,656 --> 00:09:16,536
+The correct answer is: negative one is
+less than or equal to x,
+
+153
+00:09:16,556 --> 00:09:19,626
+and x is less than or equal to four.
+
+154
+00:09:19,976 --> 00:09:23,946
+Let's verify that using x equals zero
+in the original expression.
+
+155
+00:09:24,256 --> 00:09:29,596
+Negative zero squared plus zero plus four is
+four, which is greater than or
+
+156
+00:09:29,616 --> 00:09:33,926
+equal to zero. And zero lies inside
+our chosen interval.
+
+157
+00:09:33,996 --> 00:09:39,996
+Now test x equals five: negative twenty five
+plus fifteen plus four is negative
+
+158
+00:09:40,016 --> 00:09:43,546
+six, so five must NOT be in our solution.
+
+159
+00:09:43,876 --> 00:09:46,916
+The checks agree. If you forget
+to reverse the sign,
+
+160
+00:09:46,936 --> 00:09:49,086
+you will select the wrong region.
+
+161
+00:09:49,356 --> 00:09:53,486
+And one more thing: never assume the
+middle is always negative.
+
+162
+00:09:53,736 --> 00:09:57,756
+That quick pattern applies to our upward
+opening examples with two distinct
+
+163
+00:09:57,776 --> 00:10:02,546
+roots. A sign test or an accurate
+graph is the reliable method.
+
+164
+00:10:02,756 --> 00:10:04,746
+One last question before we finish.
+
+165
+00:10:05,456 --> 00:10:08,446
+Solve x squared minus nine,
+less than zero.
+
+166
+00:10:08,756 --> 00:10:11,436
+Pause for a moment and decide
+which interval works.
+
+167
+00:10:11,456 --> 00:10:16,516
+We can factorise it as x minus three,
+multiplied by x plus three,
+
+168
+00:10:16,536 --> 00:10:21,606
+less than zero. The critical values are
+negative three and positive three.
+
+169
+00:10:21,736 --> 00:10:26,316
+Try zero in the middle: zero squared
+minus nine gives negative nine,
+
+170
+00:10:26,336 --> 00:10:27,776
+which is less than zero.
+
+171
+00:10:27,796 --> 00:10:29,946
+So the middle interval is correct.
+
+172
+00:10:30,176 --> 00:10:32,066
+But the inequality is strict.
+
+173
+00:10:32,556 --> 00:10:35,006
+Negative three and three are excluded.
+
+174
+00:10:35,296 --> 00:10:40,596
+The final answer is: x is greater than
+negative three AND less than positive
+
+175
+00:10:40,616 --> 00:10:44,266
+three. If you got that right, you've
+understood the method.
+
+176
+00:10:44,636 --> 00:10:47,386
+Now you've got a process you can
+use in a new question,
+
+177
+00:10:47,556 --> 00:10:50,406
+even if the roots or the
+inequality symbol change.
+
+178
+00:10:50,696 --> 00:10:54,536
+Let's finish with four steps you can use in
+your next Mathematics Paper One
+
+179
+00:10:54,556 --> 00:10:58,706
+question. First, put the
+inequality into standard form.
+
+180
+00:10:59,016 --> 00:11:04,126
+Second, factorise or use another valid
+method to find the critical values.
+
+181
+00:11:04,496 --> 00:11:08,106
+Third, test the signs or inspect
+an accurate graph.
+
+182
+00:11:08,436 --> 00:11:12,876
+Fourth, write the correct intervals, including
+the endpoints only when equality
+
+183
+00:11:12,896 --> 00:11:16,306
+is allowed. Remember, don't
+just find the roots.
+
+184
+00:11:16,576 --> 00:11:19,506
+Find the x values that satisfy
+the inequality.
+
+185
+00:11:19,776 --> 00:11:23,626
+For more practice, visit Equation
+Station SA dot top.
+
+186
+00:11:23,876 --> 00:11:27,926
+Our Algebra resources include free notes
+and self marking practice,
+
+187
+00:11:27,956 --> 00:11:32,456
+and you can work toward a free Equation
+Station SA completion certificate when
+
+188
+00:11:32,476 --> 00:11:33,986
+you meet the test requirements.
+
+189
+00:11:34,236 --> 00:11:37,746
+If you'd like more structured Paper One
+and Paper Two preparation,
+
+190
+00:11:37,936 --> 00:11:41,876
+our Grade twelve Mathematics Study Guide and
+Answer Book are also available
+
+191
+00:11:41,896 --> 00:11:45,026
+on the website. The links are
+below this video.
+
+192
+00:11:45,216 --> 00:11:49,436
+Keep practising, and I'll see you in Lesson
+Four, where we'll solve simultaneous
+
+193
+00:11:49,456 --> 00:11:51,496
+equations. You've got this!
