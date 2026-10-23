@@ -1,0 +1,145 @@
+Imagine opening your Grade Twelve Mathematics Paper One and meeting this equation: two multiplied by two to the power of two x, minus nine multiplied by two to the power of x, plus four, equals zero.
+
+The x is in the exponent. The first power looks twice as large as the second. And there are three terms. Where would you even begin?
+
+Here is the surprise: this is actually a quadratic equation in disguise. And it is not a made-up challenge. It is Question one point one point four from the November twenty twenty-five National Senior Certificate Mathematics Paper One, worth four marks.
+
+Welcome back to Equation Station SA. I'm Chris. In Lesson Five, we are going to uncover exponential equations and hidden quadratics, build the method step by step, and practise the mistakes examiners really see. By the end, you should be able to recognise the pattern before anyone tells you which method to use.
+
+Think back to Lesson One. If I show you x squared minus five x plus six equals zero, you can factorise it into x minus two, multiplied by x minus three, equals zero. The answers are two and three. We know how to solve that quadratic. Our job today is to recognise when the same structure is hiding inside a very different-looking equation.
+
+First, know where the unknown sits. In x squared, x is the base, and two is the exponent. In two to the power of x, two is the base, and x is the exponent. That second expression is exponential. A negative value of x is allowed; for example, two to the power of negative one is one half.
+
+We only need a few exponent ideas to unlock today's questions. When the bases are the same, multiplying powers means adding their exponents. When a power is raised to another power, multiply the exponents. And a positive base other than one gives a unique output for each real exponent.
+
+Here is a quick example from the kind of practice on our website. Three to the power of the bracket x minus one, equals twenty-seven. Twenty-seven is three cubed. So three to the power of x minus one equals three cubed. The bases match, which means x minus one equals three. Therefore x equals four.
+
+That is the same-base method. One exponential expression equals another, and we can make the bases identical.
+
+What if the bases are different? Consider eight to the power of x equals four to the power of the bracket x plus one. Eight is two cubed; four is two squared. So the left becomes two to the power of three x. The right becomes two to the power of two times the bracket x plus one. Carefully expand that exponent: two x plus two. Now three x equals two x plus two, giving x equals two. A quick check confirms that eight squared and four cubed are both sixty-four.
+
+But please do not use that method blindly. We could equate those exponents because two exponential expressions were equal. We cannot just equate exponents across terms joined by plus and minus signs.
+
+Look at the original matric question again. It has three terms. What we need now is the single most important identity in this lesson.
+
+Two to the power of two x is the square of two to the power of x. Let that sink in. Two to the power of two x equals the bracket two to the power of x, all squared.
+
+That does not mean two multiplied by two to the power of x. We can check with x equals two. Two to the power of four equals sixteen. Two squared, all squared, also equals sixteen. But two times two squared is eight. The last expression is different.
+
+Why does the correct rule work? Because two x means x multiplied by two. When we square the entire power two to the power of x, the power-of-a-power rule multiplies its exponent by two. So the result is two to the power of two x.
+
+Now look closely at what repeats in our question. The first term contains the square of two to the power of x. The second term contains two to the power of x on its own. This is the same pattern as two times something squared, minus nine times that something, plus four.
+
+Let's give that something a new name. Let k equal two to the power of x. Then two to the power of two x becomes k squared.
+
+Our entire equation transforms into two k squared minus nine k plus four equals zero. We have turned an exponential equation into an ordinary quadratic. The letter k is only a temporary substitute; our final job is still to find x.
+
+Before solving, one useful observation: k must be greater than zero, because two to any real power is always positive. Keep that in mind when you later decide which answers are possible.
+
+Now try the factorisation yourself. Pause if you need a moment. Which two brackets will give two k squared minus nine k plus four?
+
+We get two k minus one, multiplied by k minus four, equals zero. Multiply the brackets to check: two k squared, minus eight k, minus k, plus four. That is exactly two k squared minus nine k plus four.
+
+By the zero-product property, two k minus one equals zero, or k minus four equals zero. So k equals one half, or k equals four.
+
+Stop right here. Are those our final answers? No. The original question asks for x, not k. This is the step many candidates failed to complete, according to the Department of Basic Education's twenty twenty-five Mathematics Diagnostic Report.
+
+Return to the meaning of k. We said k equals two to the power of x.
+
+For the first branch, two to the power of x equals one half. One half is two to the power of negative one. So x equals negative one.
+
+For the second branch, two to the power of x equals four. Four is two squared. So x equals two.
+
+The two answers are x equals negative one, or x equals two.
+
+Notice that negative one is a perfectly valid exponent. We did not say x had to be positive. We said two to the power of x had to be positive. Those statements are not the same thing.
+
+Let's verify both answers using the original question. For x equals negative one, the first term is two times one quarter, or one half. The second term is nine times one half, or four and a half. One half minus four and a half plus four equals zero.
+
+For x equals two, the first term is two times sixteen, or thirty-two. The middle term is nine times four, or thirty-six. Thirty-two minus thirty-six plus four also equals zero.
+
+Both solutions work. The original question was worth four marks, and the important lesson is not just the final pair of numbers. It is the chain of reasoning: spot a repeated expression, rewrite its square, substitute, solve the quadratic, return to x, and check.
+
+Let's give that routine a short name: recognise, substitute, solve, return, verify. And remember, sometimes you must rewrite the bases even before you can recognise the substitution.
+
+Now I want to test whether you can carry that logic into a question where the two bases do not appear to match. This is where strong exam technique begins: not memorising one exact question, but understanding why the method works when the numbers change.
+
+Look at four to the power of x, minus five times two to the power of x, plus four, equals zero.
+
+We have a four in one base and a two in the other. But four is two squared. That means four to the power of x is two to the power of two x, which is the square of two to the power of x. The repeated expression is visible again.
+
+Let k equal two to the power of x. The equation becomes k squared minus five k plus four equals zero. Factorise into k minus one, multiplied by k minus four, equals zero. So k equals one or k equals four.
+
+Translate both answers back. Two to the power of x equals one gives x equals zero. Two to the power of x equals four gives x equals two. The solutions are zero and two. Check the first in the original: one minus five plus four equals zero. Check the second: sixteen minus twenty plus four equals zero.
+
+What made this different from our exam question? Only the appearance. We had to rewrite four to the power of x before the repeated expression became obvious. The underlying method stayed the same.
+
+Now comes the trap I really want you to understand. Consider four to the power of x, plus three times two to the power of x, minus four, equals zero.
+
+Try the substitution before listening to the next step. Let k equal two to the power of x. We obtain k squared plus three k minus four equals zero. Factorise into k plus four, multiplied by k minus one, equals zero.
+
+The quadratic says k equals negative four, or k equals one. Is every quadratic answer valid in the original exponential equation?
+
+No. k equals two to the power of x, and two to the power of x is always strictly positive for real x. It cannot equal negative four. Reject that branch.
+
+The other branch is possible. Two to the power of x equals one, so x equals zero. This is our only real solution.
+
+Be precise about what we rejected. We rejected negative k, not negative x. In the official exam question, x equals negative one was allowed because two to the power of negative one is positive one half. Here, negative four is proposed as the output of two to the power of x, and that is impossible.
+
+Picture the graph of y equals two to the power of x. It stays above the horizontal axis. Even when x becomes very negative, the graph approaches zero but never reaches it. That is why k cannot be negative or zero.
+
+A brief comparison will help. If k equals x squared, then k may be zero or positive. If k equals two to the power of x, k must be strictly positive. We always inherit the restrictions of the original expression we replaced.
+
+Now, how do we choose a method quickly in an examination? Start with two questions. First: is one exponential expression equal to another, and can I give them the same base? If yes, consider equating the exponents. Second: do I see the same expression appearing once and squared in an equation with several terms? If yes, consider substitution.
+
+For instance, three to the power of the bracket x plus one equals eighty-one is a same-base question. Eighty-one equals three to the fourth, so x plus one equals four. Therefore x equals three.
+
+But three to the power of two x, minus ten times three to the power of x, plus nine, equals zero, is a hidden quadratic. If k equals three to the power of x, the equation becomes k squared minus ten k plus nine equals zero. Its factors are k minus one and k minus nine. Hence k equals one or nine, giving x equals zero or two.
+
+You don't have to memorise two unrelated tricks. The first equation is solved by making matching powers equal. The second uses a repeated expression and the quadratic structure you already know.
+
+Let's remove some of my guidance now. On the screen is two to the power of two x, minus six times two to the power of x, plus eight, equals zero. Pause the video. Write the substitution, find every possible k, and return to x before checking my answer.
+
+Here is the solution. Let k equal two to the power of x. Then k squared minus six k plus eight equals zero. We factorise into k minus two, times k minus four. So k equals two or four. Returning to the original variable gives x equals one or two. Both corresponding k-values are positive, so both are possible.
+
+If you stopped at k equals two and k equals four, now is the time to repair that habit. k is the temporary variable. The question wants x.
+
+We can take today's idea further without adding a brand-new solving technique. A hidden quadratic does not have to be exponential. Look at x to the fourth, minus thirteen x squared, plus thirty-six, equals zero.
+
+It looks like a fourth-degree equation. But x to the fourth is the square of x squared. The repeated expression is x squared. Let k equal x squared. The equation becomes k squared minus thirteen k plus thirty-six equals zero.
+
+Factorise into k minus nine, multiplied by k minus four, equals zero. Thus k equals nine or four. Return to x: x squared equals nine gives x equals negative three or positive three. x squared equals four gives negative two or positive two. We have four real solutions altogether.
+
+This example is a powerful contrast with the exponential problem. If two to the power of x equals four, then x equals two. But if x squared equals four, then x can be negative two or positive two. The meaning of k determines how we undo the substitution.
+
+Let's test the restriction. Suppose we have x to the fourth, plus five x squared, plus four, equals zero. Let k equal x squared. We get k squared plus five k plus four equals zero. Factorise into k plus one, times k plus four, equals zero. So k equals negative one or negative four.
+
+But k stands for x squared, and the square of a real number cannot be negative. Reject both possibilities. Therefore there are no real solutions.
+
+It is important to say no real solutions, not just no solutions. We are working in the real-number context used for these Grade Twelve questions.
+
+Before our final practice, let's diagnose three mistakes. Mistake one: writing two to the power of two x as two multiplied by two to the power of x. That breaks the exponent law. Mistake two: finding k and stopping, even though the unknown is x. Mistake three: keeping an impossible k, or rejecting a negative x that actually works. Those errors all come from forgetting what the expression means.
+
+Here are two independent challenges. Please pause the video and solve them on paper before I reveal the answers.
+
+Question one: nine to the power of x, minus four times three to the power of x, plus three, equals zero.
+
+Question two: x to the fourth, minus ten x squared, plus nine, equals zero.
+
+Start by identifying the repeated expression. Then do the substitution, solve, return, and check which answers are allowed. Give yourself real thinking time.
+
+Ready for the solutions?
+
+For question one, nine to the power of x is the square of three to the power of x. Let k equal three to the power of x. Then k squared minus four k plus three equals zero. This factorises into k minus one, times k minus three, equals zero. So k equals one or three. Going back gives three to the power of x equals one, or three to the power of x equals three. Therefore x equals zero or one.
+
+For question two, let k equal x squared. We get k squared minus ten k plus nine equals zero. Factorise into k minus one, times k minus nine. So k equals one or nine. This time, going back produces x equals negative one, positive one, negative three or positive three. Four values in total.
+
+If you made a mistake, identify the stage where it happened. Did you miss the repeated expression? Did you use an incorrect exponent law? Did you factorise incorrectly? Or did you forget to return to x? Practising that diagnosis is much more useful than simply copying the solution.
+
+One final boundary to remember: not every exponential equation has an answer that can be written using whole-number powers. If two to the power of x equals seven, matching simple integer exponents won't finish it. Logarithms can help in such cases, and we treat those methods more fully with logarithmic functions elsewhere in the CAPS course. For today's lesson, our focus has been same-base equations and quadratic substitution, which you should now recognise confidently.
+
+Now visit equationstationsa dot top. Open our Grade Twelve Algebra and Equations course, work through the free Mastery Bank, and test what you can do without a video guiding every step. Use the relevant quiz and completion certificate where available. Our Grade Twelve Mathematics study guide is also there if you want more structured revision.
+
+In Lesson Six, we will move to surd equations. Squaring both sides can give an answer that looks correct but fails the original equation. There is a connection with today's lesson: an algebraic result is only a valid solution when it satisfies the original problem.
+
+Thank you for learning with me. I'm Chris, and this is Equation Station SA. Recognise the structure, show the mathematics, and always return to x.
