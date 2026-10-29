@@ -1,20 +1,37 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Equation Station SA
 
-# Run and deploy your AI Studio app
+A CAPS-aligned mathematics learning platform created by Chris Khomo to help South African learners build confidence through clear explanations, worked examples, revision resources and guided practice.
 
-This contains everything you need to run your app locally.
+## Local development
 
-View your app in AI Studio: https://ai.studio/apps/8ef34379-be5c-402e-8dc4-3171c3798440
+**Requirements:** Node.js 20 or later.
 
-## Run Locally
+```bash
+npm install
+npm run dev
+```
 
-**Prerequisites:**  Node.js
+Create a production build with:
 
+```bash
+npm run build
+```
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Project structure
+
+- `src/` — application components and learning content
+- `public/` — static public assets
+- `metadata.json` — project metadata
+- `vite.config.ts` — Vite configuration
+
+## Author
+
+**Chris Khomo**  
+Learning Experience Designer and founder of Equation Station SA
+
+- [Equation Station SA](https://equationstation-sa.pages.dev/)
+- [YouTube](https://www.youtube.com/@theequationstationsa)
+
+## Rights
+
+Copyright © Equation Station SA. Educational content and brand assets may not be republished commercially without permission.
